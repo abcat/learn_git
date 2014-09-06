@@ -5,3 +5,4 @@ It is free software.
 Git has a mutable index called stage.
 Creating a new branch is easy.
 Add a new line in the dev branch.
+Add another line after bug fix.
